@@ -6,7 +6,7 @@
     "umart44": {
       "projectType": "application",
       "schematics": {
-        "@schematics/angular:component": { 
+        "@schematics/angular:component": {
           "style": "scss"
         }
       },

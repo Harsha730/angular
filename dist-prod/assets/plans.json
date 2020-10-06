@@ -1,0 +1,313 @@
+{
+  "features": [
+      {
+          "id": 1,
+          "name": "Translation",
+          "description": "Enable users to find your web content/products/ services in their local languages.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Only Telugu"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Local and Hindi"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Local and Hindi"
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "name": "Mobile/WEB Compatible",
+          "description": "All the products and services are accessible on both mobile and desktop platforms without fail.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      },
+      {
+          "id": 3,
+          "name": "e-Commerce platform",
+          "description": "Managed and optimized hosting services for your customized Ecommerce needs.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      },
+      {
+          "id": 4,
+          "name": "Custom Domain",
+          "description": "Register your Branding or custom vendor portal with us. Our e-commerce solutions help you to drive more traffic into your business.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Not Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      },
+      {
+          "id": 5,
+          "name": "Outlet Management",
+          "description": "Committed to improving your outlet user experience in an affordable package.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      },
+      {
+          "id": 6,
+          "name": "OTP Authentication",
+          "description": "An extra layer of your profile and data security with us. User's Identity is always monitored to help your critical business requirements.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      },
+      {
+          "id": 7,
+          "name": "Branding and Experience",
+          "description": "Branding is a sensory experience that brings customer long-lasting relationship. Matching your business that meets user expectation is always matters.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Not Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      },
+      {
+          "id": 8,
+          "name": "SEO",
+          "description": "Growing the quality and quantity of website traffic by increasing the visibility of a website in search engines.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Not Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      },
+      {
+          "id": 9,
+          "name": "User Traffic",
+          "description": "Hassle-free browsing solutions (in terms of speed and accessibility), empower vendors to build great in-product experiences.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Not Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      },
+      {
+          "id": 10,
+          "name": "Digital Services",
+          "description": "Help and guide vendors in making cost-effective and correct use of portal services round the clock.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Not Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      },
+      {
+          "id": 11,
+          "name": "Customer Support",
+          "description": "Customize your digital Media content needs for sustainable profitable growth.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "WEB and In person"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "WEB and In person"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "WEB and In person"
+              }
+          ]
+      },
+      {
+          "id": 12,
+          "name": "Social Network Sharing",
+          "description": "Broadcast your products and services on a social network to your social connections.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "WhatsApp Only"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "WhatsApp/Instagram/Pinterest"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "All Social Networking sites"
+              }
+          ]
+      },
+      {
+          "id": 13,
+          "name": "Slot Booking wizard",
+          "description": "Assists to automate the process of your outlet visits, 24x7 online.",
+          "plans": [
+              {
+                  "id": 1,
+                  "name": "Silver",
+                  "feature_condition": "Not Applied"
+              },
+              {
+                  "id": 2,
+                  "name": "Gold",
+                  "feature_condition": "Applied"
+              },
+              {
+                  "id": 3,
+                  "name": "Platinum",
+                  "feature_condition": "Applied"
+              }
+          ]
+      }
+  ],
+  "plans": [
+      {
+          "id": 1,
+          "name": "Silver",
+          "country": "India",
+          "currency_code": "INR",
+          "price": 249
+      },
+      {
+          "id": 2,
+          "name": "Gold",
+          "country": "India",
+          "currency_code": "INR",
+          "price": 599
+      },
+      {
+          "id": 3,
+          "name": "Platinum",
+          "country": "India",
+          "currency_code": "INR",
+          "price": 1499
+      }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "name": "India",
+            "code": "+91",
+            "states": [
+                {
+                    "id": 2,
+                    "name": "Telangana",
+                    "country_id": 1,
+                    "cities": [
+                        {
+                            "id": 1,
+                            "name": "Hyderabad",
+                            "state_id": 2
+                        },
+                        {
+                            "id": 2,
+                            "name": "Tirupati",
+                            "state_id": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Andra Pradesh",
+                    "country_id": 1,
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "USA",
+            "code": "+1",
+            "states": [
+                {
+                    "id": 3,
+                    "name": "Canada",
+                    "country_id": 2,
+                    "cities": [
+                        {
+                            "id": 3,
+                            "name": "Virgenia",
+                            "state_id": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

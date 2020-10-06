@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /dist-prod/*
+  - source: /dist-prod/
     destination: /usr/share/ngnix/dist-prod/dist-prod/
     overwrite: yes
 hooks:

@@ -4,6 +4,13 @@ files:
   - source: /dist-prod/
     destination: /usr/share/ngnix/dist-prod/dist-prod/
     overwrite: yes
+permissions:
+  - object: /usr/share/ngnix/dist-prod/dist-prod/
+    pattern: "**"
+    owner: root
+    mode: 755
+    type: 
+      - directory
 hooks:
   ApplicationStart:
     - location: scripts/start_server

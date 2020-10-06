@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /usr/share/ngnix/dist-prod/dist-prod/
+sudo systmectl stop nginx
+sudo systemctl start nginx
